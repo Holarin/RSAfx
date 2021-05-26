@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RSAfx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RSAfx_jar</output-path>
+    <root id="archive" name="RSAfx.jar">
+      <element id="module-output" name="RSAfx" />
+      <element id="library" level="project" name="sqlite-jdbc-3.32.3.2" />
+    </root>
+  </artifact>
+</component>
